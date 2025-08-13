@@ -117,6 +117,6 @@ The project includes:
 ---
 
 ## 👤 Author
-**[Your Name]** — Data Analyst  
-📧 Email: [your email]  
-🔗 LinkedIn: [your LinkedIn]
+**Kostya Gura** — Data Analyst  
+📧 Email: gurakostya96@icloud.com  
+🔗 LinkedIn: www.linkedin.com/in/kostya-gura
