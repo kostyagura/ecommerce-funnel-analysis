@@ -61,7 +61,7 @@ The project includes:
 - [PostgreSQL_monthly_reach_growth.csv](outputs/PostgreSQL_monthly_reach_growth.csv)– Output of Task 1: Largest month-over-month reach increase
 
 #### BigQuery Results
-- [BigQuery_ga4_events_extraction.csv](outputs/BigQuery_ga4_events_extraction.csv) – Output of Task 2: Extract required GA4 events with selected dimensions
+- [BigQuery_ga4_events_extraction.csv](outputs/BigQuery_ga4_events_extraction.csv?raw=true) – Output of Task 2: Extract required GA4 events with selected dimensions
 - [BigQuery_conversion_funnel.csv](outputs/BigQuery_conversion_funnel.csv) – Output of Task 3: Conversion funnel metrics by date, source, medium, campaign
 - [BigQuery_landing_page_conversion.csv](outputs/BigQuery_landing_page_conversion.csv) – Output of Task 4: Compare conversions by landing page
 - [BigQuery_engagement_purchase_correlation.csv](outputs/BigQuery_engagement_purchase_correlation.csv) – Output of Task 5: Correlation between engagement and purchases
